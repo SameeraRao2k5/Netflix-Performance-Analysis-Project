@@ -32,49 +32,49 @@ Analyze Netflix's content catalog to identify factors influencing audience engag
 
 ### Q1. Which Content Type Generates the Highest Audience Engagement?
 
-![Q1](assets/q1.png)
+![Q1](assets/Q1.png)
 
 ---
 
 ### Q2. Which Languages Generate the Highest Audience Engagement?
 
-![Q2](assets/q2.png)
+![Q2](assets/Q2.png)
 
 ---
 
 ### Q3. Does Global Availability Influence Audience Engagement?
 
-![Q3](assets/q3.png)
+![Q3](assets/Q3.png)
 
 ---
 
 ### Q4. How Has Netflix's Content Release Strategy Evolved Over Time?
 
-![Q4](assets/q4.png)
+![Q4](assets/Q4.png)
 
 ---
 
 ### Q5. Which Release Years Generated the Highest Audience Engagement?
 
-![Q5](assets/q5.png)
+![Q5](assets/Q5.png)
 
 ---
 
 ### Q6. Which Months Are Best for Releasing Content?
 
-![Q6](assets/q6.png)
+![Q6](assets/Q6.png)
 
 ---
 
 ### Q7. Which Weekdays Generate the Highest Audience Engagement?
 
-![Q7](assets/q7.png)
+![Q7](assets/Q7.png)
 
 ---
 
 ### Q8. Which Release Quarters Generate the Highest Audience Engagement?
 
-![Q8](assets/q8.png)
+![Q8](assets/Q8.png)
 
 ---
 
